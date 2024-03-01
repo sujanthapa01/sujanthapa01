@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Node.js**
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio-sigma-five-32.vercel.app/](https://my-portfolio-sigma-five-32.vercel.app/) under dev
+- 👨‍💻 All of my projects are available at [https://my-portfolio-sigma-five-32.vercel.app/](https://my-portfolio-sigma-five-32.vercel.app/) - (under dev)
 
 - 💬 Ask me about **JavaScript**
 
