@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **sujanthapast0@gmail.com**
 
-- 📄 Know about my experiences [https://maroon-noreen-62.tiiny.site](https://maroon-noreen-62.tiiny.site)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sujanthapa312" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sujanthapa312" height="30" width="40" /></a>
