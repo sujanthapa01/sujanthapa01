@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sujan Thapa</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **redux**
 
 - 👨‍💻 All of my projects are available at [https://sujanthapa.vercel.app/)
 
