@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sujan Thapa</h1>
 <h3 align="center">A passionate Student from India</h3>
 
-- 🌱 I’m currently learning **DSA**
-
+- 🌱 I’m currently learning **NEXTjs**
 - 👨‍💻 All of my projects are available at [https://sujanthapa.vercel.app/)
 
 - 💬 Ask me about **JavaScript**
