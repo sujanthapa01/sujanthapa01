@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sujan Thapa</h1>
 
-- 🌱 I’m currently learning **NEXTjs**
+- 🌱 I’m currently learning **DSA**
 - 👨‍💻 All of my projects are available at [https://sujanthapa.vercel.app/)
 
 - 💬 Ask me about **JavaScript**
