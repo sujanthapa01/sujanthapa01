@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sujan Thapa</h1>
 
 - 🌱 I’m currently learning **DSA**
-- 👨‍💻 All of my projects are available at [https://sujanthapa.vercel.app/)
+- 👨‍💻 All of my projects are available at [www.sujanthapa.xyz/)
 
 - 💬 Ask me about **JavaScript**
 
