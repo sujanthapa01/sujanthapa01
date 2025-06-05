@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sujan Thapa</h1>
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently learning **Gen Ai**
 - 👨‍💻 All of my projects are available at [www.sujanthapa.xyz/)
 
 - 💬 Ask me about **JavaScript**
