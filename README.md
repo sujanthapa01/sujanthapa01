@@ -10,7 +10,7 @@
 <h1 align="center">Sujan Thapa</h1>
 
 <p align="center">
-  <b>Backend Developer</b> | BCA Student (20) | 🇮🇳 India
+  <b>Backend Developer</b> | BCA Student (20) | 📍India
 </p>
 
 <!-- ===================== ABOUT ===================== -->
