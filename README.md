@@ -1,7 +1,7 @@
 <!-- ===================== PROFILE IMAGE ===================== -->
 <p align="center">
   <img
-    src="https://res.cloudinary.com/dmg30zh6b/image/upload/v1767941581/20251120_170901_2_kcrklt.jpg"
+    src="https://res.cloudinary.com/dmg30zh6b/image/upload/v1767947750/20251120_170901_2_kcrklt.jpg"
     alt="Sujan Thapa"
     width="260"
   />
@@ -18,7 +18,6 @@
   <i>Backend-focused developer specializing in Low-Level Design, System Design, and Scalable Architectures.</i>
 </p>
 
-<br/>
 
 <!-- ===================== EXPERTISE ===================== -->
 <div align="center">
