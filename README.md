@@ -6,7 +6,6 @@
     width="260"
   />
 </p>
-
 <!-- ===================== HEADER ===================== -->
 <h1 align="center">Sujan Thapa</h1>
 
@@ -26,21 +25,17 @@
 
 Building *backend systems and APIs* with <b style="color:#3178C6;">TypeScript</b> and Node.js  
 Developing full-stack applications using *Next.js* and *React*  
-Designing  <span style="color:#3178C6"> *scalable, service-oriented architectures* </span> for production systems
+Designing  <span style="color:#3178C6"> *scalable, service-oriented architectures* </span> for production systems.
 
 </div>
 
-<br/>
 
 <!-- ===================== ACHIEVEMENTS ===================== -->
 <p align="center">
-  🏆 <b>Inter-college Hackathon Winner</b>
+ 🏆 <b>Inter-college Hackathon Winner</b>
 </p>
 
-<br/>
-
 ---
-
 <!-- ===================== FOOTER ===================== -->
 <p align="center">
   <i>"Less talk. More action."</i>
