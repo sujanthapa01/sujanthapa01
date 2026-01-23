@@ -10,7 +10,7 @@
 <h1 align="center">Sujan Thapa</h1>
 
 <p align="center">
-  <b>Backend Developer</b> | Age 20 | 📍India
+   Age 20 | 📍India
 </p>
 
 <!-- ===================== ABOUT ===================== -->
@@ -23,7 +23,8 @@
 <div align="center">
 
 Building *backend systems and APIs* with <b style="color:#3178C6;">TypeScript</b> and Node.js  
-Developing full-stack applications using *Next.js* and *React*  
+  Currently learning infrastructure-style backend development by building real systems.
+
 Designing  <span style="color:#3178C6"> *scalable, service-oriented architectures* </span> for production systems.
 
 </div>
