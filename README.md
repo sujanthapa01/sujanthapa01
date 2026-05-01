@@ -32,7 +32,7 @@ Designing  <span style="color:#3178C6"> *scalable, service-oriented architecture
 
 <!-- ===================== ACHIEVEMENTS ===================== -->
 <p align="center">
- 🏆 <b>Inter-college Hackathon Winner</b>
+ 🏆 <b>Inter-college Hackathon Winner 2025</b>
 </p>
 
 ---
