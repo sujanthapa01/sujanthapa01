@@ -10,7 +10,7 @@
 <h1 align="center">Sujan Thapa</h1>
 
 <p align="center">
-   Age 20 | 📍India
+   Age 21 | 📍India
 </p>
 
 <!-- ===================== ABOUT ===================== -->
